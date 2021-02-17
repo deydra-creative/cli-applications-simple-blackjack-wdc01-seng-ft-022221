@@ -40,15 +40,15 @@ def hit?
   end
   if user_input == "h"
     new_card = deal_card
-    current_card_total += new_card
+    new_card_total += new_card
   elsif user_input == "s"
-    current_card_total
+    new_card_total
   end
-  return current_card_total
+  return new_card_total
 end
 
 def invalid_command
-  # code invalid_command here
+  
 end
 
 #####################################################
