@@ -11,7 +11,7 @@ def display_card_total
 end
 
 def prompt_user
-  
+  puts "Press 'H' to hit or '
 end
 
 def get_user_input
