@@ -7,11 +7,11 @@ def deal_card
 end
 
 def display_card_total
-  puts "Your card total is {card_total}"
+  puts "Your card total is #{card_total}"
 end
 
 def prompt_user
-  # code #prompt_user here
+  
 end
 
 def get_user_input
