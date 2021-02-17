@@ -29,7 +29,8 @@ def initial_round
  puts display_card_total 
 end
 
-def hit? (card_total)
+def hit? 
+  
 end
 
 def invalid_command
